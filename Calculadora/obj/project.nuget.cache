@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "enYdbr/yLzC88Zx+Gms6dB9VTZn8va+D7BdnhY5zeb9KsWGisvpXjtMwgZHzWfaUIwSan/w6ttJ1ngXoIjRZKw==",
+  "dgSpecHash": "iHkeWSYgMTs=",
   "success": true,
-  "projectFilePath": "/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\marcos.oliveira\\projetos\\minimal_api\\MTestesUnitarios\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

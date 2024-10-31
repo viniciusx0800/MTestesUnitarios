@@ -5534,19 +5534,19 @@
     ]
   },
   "packageFolders": {
-    "/home/vinicius/.nuget/packages/": {}
+    "C:\\Users\\marcos.oliveira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vinicius/Projetos/Estudos/MTestesUnitarios/CalculadoraTestes/CalculadoraTestes.csproj",
+      "projectUniqueName": "C:\\Users\\marcos.oliveira\\projetos\\minimal_api\\MTestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
       "projectName": "CalculadoraTestes",
-      "projectPath": "/home/vinicius/Projetos/Estudos/MTestesUnitarios/CalculadoraTestes/CalculadoraTestes.csproj",
-      "packagesPath": "/home/vinicius/.nuget/packages/",
-      "outputPath": "/home/vinicius/Projetos/Estudos/MTestesUnitarios/CalculadoraTestes/obj/",
+      "projectPath": "C:\\Users\\marcos.oliveira\\projetos\\minimal_api\\MTestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
+      "packagesPath": "C:\\Users\\marcos.oliveira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcos.oliveira\\projetos\\minimal_api\\MTestesUnitarios\\CalculadoraTestes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vinicius/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\marcos.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5558,8 +5558,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/Calculadora.csproj": {
-              "projectPath": "/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/Calculadora.csproj"
+            "C:\\Users\\marcos.oliveira\\projetos\\minimal_api\\MTestesUnitarios\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\marcos.oliveira\\projetos\\minimal_api\\MTestesUnitarios\\Calculadora\\Calculadora.csproj"
             }
           }
         }
@@ -5568,6 +5568,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5611,7 +5616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
