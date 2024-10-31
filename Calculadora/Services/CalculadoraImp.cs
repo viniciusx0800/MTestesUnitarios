@@ -16,5 +16,6 @@ namespace Calculadora.Services
         {
             return num % 2 == 0;
         }
+
     }
 }
