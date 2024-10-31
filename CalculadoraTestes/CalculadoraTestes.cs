@@ -1,4 +1,5 @@
 using Calculadora.Services;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace CalculadoraTestes;
 
@@ -59,7 +60,7 @@ public class CalculadoraTestes
     [InlineData(6)]
     [InlineData(8)]
     [InlineData(10)]
-    public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiro()
+    public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiro(int numero)
     {
         // Arrange
         // Act
