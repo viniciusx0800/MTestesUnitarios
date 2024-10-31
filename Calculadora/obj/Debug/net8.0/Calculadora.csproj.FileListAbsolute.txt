@@ -1,0 +1,15 @@
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/bin/Debug/net8.0/Calculadora
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.sourcelink.json
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/home/vinicius/Projetos/Estudos/MTestesUnitarios/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
